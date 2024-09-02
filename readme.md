@@ -116,7 +116,7 @@ By executing these SQL queries, valuable insights have been extracted from the d
 
 **Regional Sales Dashboard -**
 
-[![Regional Sales Overview](https://github.com/jagritsharma24/Data-Analytics-Project/blob/384ed18f20f7270fe363cbc2550508647c826aaa/Tableau-Projects/Regional-Sales-Overview/Images/Regional%20Sales%20Overview.png)](https://public.tableau.com/views/SalesOverview_16930746847990/RegionalSalesOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![Regional Sales Overview](https://github.com/jagritsharma24/tableau-regional-sales-analysis/blob/main/Images/Regional%20Sales%20Overview.png?raw=true)]
 
 ### Conclusion:
 
